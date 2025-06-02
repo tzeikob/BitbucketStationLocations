@@ -11,3 +11,9 @@ Add another stashed change in line 7
 asdfasdfas
 adfadfasdfasdf
 asdfsadfa
+
+a
+
+b
+
+c
