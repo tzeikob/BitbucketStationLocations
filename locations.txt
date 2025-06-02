@@ -1,3 +1,4 @@
 lala
-europe/Athens
-amerika/Mexico
+Europe/Athens
+America/Mexico
+Africa/Kongo
