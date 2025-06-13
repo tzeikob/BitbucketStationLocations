@@ -3,5 +3,5 @@ package lalala
 import "fmt"
 
 func start() {
-	fmt.Println("alalal")
+	fmt.Println("alalalaaaa")
 }
